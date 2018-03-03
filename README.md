@@ -6,16 +6,19 @@ En la ciudad de Madrid, cada habitante produce **una media diaria de un kilo de 
 
 Entre las cosas que podemos hacer para reducir nuestra huella ecológica y poner un freno al cambio climático, disminuir la generación de residuos es un paso importante. ¿Como conseguir producir menos desperdicios en Madrid? El objetivo de este proyecto es analizar la situación actual en la capital y dar claves de entendimiento a los ciudadanos para reducir su producción de residuos.
  
- 
- 
+ <img width="1226" alt="screen shot 2018-02-26 at 20 06 20" src="https://user-images.githubusercontent.com/22743273/36932839-c6ea16c4-1ecf-11e8-9844-d21b105def15.png">
+
  
 ## Descripción del proyecto
-La “ley de las tres R” (reducir, reutilizar y reciclar) es una línea de conducta para minimizar su huella ecológica. Elegimos centrar este proyecto en la primera R - la más importante - ya que si no llegaremos a producir el desecho, no hay que tomar medidas después para compensar el daño.
-El proyecto pretende ser alentador, tener un enfoque positivo y proponer soluciones. El objetivo no es abrumar el usuario con datos condenadores sino proponer un camino simple hacia un cambio. Por esta razón, proponemos usar un formato de cuestionario que permita al usuario medir su producción de residuos y recibir consejos personalizados para minimizarla. 
+La “ley de las cuatro R” (reducir, reutilizar, reciclar y recuperar) es una línea de conducta para minimizar su huella ecológica. Elegimos centrar este proyecto en la primera R - la más importante - ya que si no llegaremos a producir el desecho, no hay que tomar medidas después para compensar el daño. El proyecto pretende ser alentador, tener un enfoque positivo y proponer soluciones. El objetivo es proponer un camino simple hacia un cambio.
  
  
+## Formato
+Proponemos usar un formato de cuestionario que permita al usuario medir su producción de residuos y recibir consejos personalizados para minimizarla. 
+
+
 ## Descripción del perfil de los colaboradores que requiere el proyecto
-Periodistas, analistas de datos, programadores, ilustradores, personas con conocimiento en la protección del medio ambiente, aficionados del movimiento Zero Waste.
+Periodistas, analistas de datos, programadores, copys, ilustradores, personas con conocimiento en la protección del medio ambiente, aficionados del movimiento Zero Waste.
  
  
 ## Calendario de producción
@@ -29,26 +32,29 @@ Periodistas, analistas de datos, programadores, ilustradores, personas con conoc
 
  
 ## Conjuntos de datos
-Recogida de residuos (Portal de Datos Abiertos de Madrid)
+- [Recogida de residuos](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=86e4ee950779d510VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD) (Portal de Datos Abiertos de Madrid)
 Clasificados por tipo de residuos y por distritos
 cuales son los residuos que se producen más
 cual es la media por persona en cada distrito 
  
-What a Waste: A Global Review of Solid Waste Management (World Bank)
-Estadísticas sobre generación de residuos (INE)
+- [What a Waste: A Global Review of Solid Waste Management](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTURBANDEVELOPMENT/0,,contentMDK:23172887~pagePK:210058~piPK:210062~theSitePK:337178,00.html) (World Bank)
+
+[Estadísticas sobre generación de residuos](http://www.ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254735976612) (INE)
 cual es la situación a nivel nacional
 
 
-Referencias y proyectos similares
-Water Calculator
-Mide tu huella ecológica - cuestionario para saber cuántos residuos genera uno
+## Referencias y proyectos similares
+- [Water Calculator](https://www.watercalculator.org/?platform=hootsuite)
 
-La mer est une poubelle
+- [Mide tu huella ecológica](http://www.tuhuellaecologica.org/encuestas/residuos.asp) - cuestionario para saber cuántos residuos genera uno
+
+- La mer est une poubelle
+
 https://www.pinterest.fr/pin/511369732678353490/ 
 http://myfootprint.org/es/
  
  
-Artículos relacionados
+## Artículos relacionados
 https://elpais.com/economia/2016/07/11/actualidad/1468245829_505496.html 
 
 http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.30d4b35a97db5c61716f2b105510e1ca/?vgnextoid=afc5f103aaf98410VgnVCM2000000624e50aRCRD&vgnextchannel=5208c0726f767410VgnVCM1000001325e50aRCRD&vgnextfmt=portalwebSinMenu 
