@@ -53,7 +53,12 @@ cual es la situación a nivel nacional
 https://www.pinterest.fr/pin/511369732678353490/ 
 http://myfootprint.org/es/
  
- 
+
+## Equipo
+- [@florafosset](https://twitter.com/florafosset)
+
+
+
 ## Artículos relacionados
 https://elpais.com/economia/2016/07/11/actualidad/1468245829_505496.html 
 
@@ -61,6 +66,10 @@ http://www.juntadeandalucia.es/medioambiente/site/portalweb/menuitem.30d4b35a97d
 https://campussostenible.org/wp-content/uploads/2017/04/anexo-11-huella-ecologica-2015.pdf 
 
 http://trashisfortossers.com/13-easy-zero-waste-resolutions-you-can-make-for-2018/ 
+
+
+
+
 
 
 
