@@ -25,7 +25,7 @@ Para lograr nuestro objetivo de concientización, nos parece imprescindible crea
 
 ## Descripción del perfil de los colaboradores que requiere el proyecto
 - **Contenido**: análisis de datos, investigación, redacción, personas con conocimiento en la protección del medio ambiente, aficionados del movimiento Zero Waste, etc.
-- **Forma**: programadores, diseñadores, ilustradores, etc.
+- **Forma**: programadores, diseñadores, UX/UI, ilustradores, etc.
  
  
 ## Calendario de producción
