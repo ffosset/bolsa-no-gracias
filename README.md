@@ -50,7 +50,7 @@ Para lograr nuestro objetivo de concientización, nos parece imprescindible crea
  
 - [What a Waste: A Global Review of Solid Waste Management](http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTURBANDEVELOPMENT/0,,contentMDK:23172887~pagePK:210058~piPK:210062~theSitePK:337178,00.html) (World Bank)
 
-[Estadísticas sobre generación de residuos](http://www.ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254735976612) (INE)
+- [Estadísticas sobre generación de residuos](http://www.ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254735976612) (INE)
 cual es la situación a nivel nacional
 
 
