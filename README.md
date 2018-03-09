@@ -5,7 +5,7 @@
 En la ciudad de Madrid, cada habitante produce **una media diaria de un kilo de desperdicios**, lo que en total suma la escalofriante cifra de 1,2 millones de toneladas al año (fuente: [portal de datos abiertos del Ayuntamiento de Madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=86e4ee950779d510VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD)). La creciente generación de residuos constituye un grave problema para el medio ambiente: la contaminación del suelo, agua y aire, el aumento de las emisiones de gases de efecto invernadero y la desaparición de especies animales entre muchos otros efectos nefastos.
 
 La naturaleza no es la única afectada. La gestión de residuos supone un importante gasto económico para la comunidad (colecta, tratamiento, descontaminación, ocupación del suelo…) así como graves problemas sanitarios y sociales.
-Disminuir la generación de residuos a nivel individual es un paso importante para reducir nuestra huella ecológica y poner freno al cambio climático. ¿Cómo conseguir producir menos desperdicios en Madrid? El objetivo de este proyecto es analizar la situación actual en la capital y dar claves a los ciudadanos para reducir su producción de residuos.
+**Disminuir la generación de residuos a nivel individual es un paso importante para reducir nuestra huella ecológica y poner freno al cambio climático.** ¿Cómo conseguir producir menos desperdicios en Madrid? El objetivo de este proyecto es analizar la situación actual en la capital y dar claves a los ciudadanos para reducir su producción de residuos.
 
  
  <img width="1226" alt="screen shot 2018-02-26 at 20 06 20" src="https://user-images.githubusercontent.com/22743273/36932839-c6ea16c4-1ecf-11e8-9844-d21b105def15.png">
