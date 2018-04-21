@@ -41,9 +41,9 @@ Para lograr nuestro objetivo de concientización, nos parece imprescindible crea
 ## Colaboradores (provisional)
 - [Diego Ramírez Aragón](https://twitter.com/lowfill)
 - [Flora Fosset](https://twitter.com/florafosset)
+- Jimena García
 - [Luis Jerez Rincón](https://www.linkedin.com/in/luisjerez/)
 - Noelia Romero
-- Jimena García
 - [Pau Valiente](https://twitter.com/paucc)
 
 
